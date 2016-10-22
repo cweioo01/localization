@@ -25,11 +25,11 @@
 
 * 点击“new file”然后在弹出窗口左侧选择IOS的resource项，在右侧就可以看到“String File”的图标。创建这个文件，命名为“InfoPlist”（一定是这个文件名） 就生成一个InfoPlist.strings文件；
 
-* 选中InfoPlist.strings 点击 XCode-> View-> Utilities -> File Inspector,在Localization中点“+”，添加chinese （zh－Hans）类型的为简体中文，english 应该会自动添加上。然后在InfoPlish.strings 左边会多出一个三角形，点击展开后可以看到InfoPlish.strings(english)和InfoPlish.strings(chinese)两个版本的文件；
+* 选中Localizable.strings 点击 XCode-> View-> Utilities -> File Inspector,在Localization中点“+”，添加chinese （zh－Hans）类型的为简体中文，english 应该会自动添加上。然后在Localizable.strings 左边会多出一个三角形，点击展开后可以看到Localizable.strings(english)和Localizable.strings(chinese)两个版本的文件；
 
-*在InfoPlish.strings(english)文件中加入：
+* 在Localizable.strings(english)文件中加入：
 
-* CFBundleDisplayName ="Program"; 其中“Program”为英文应用程序名称，同理在InfoPlish.strings(chinese)文件中加入：
+* CFBundleDisplayName ="Program"; 其中“Program”为英文应用程序名称，同理在Localizable.strings(chinese)文件中加入：
 
 * CFBundleDisplayName ="应用程序"; 其中“应用程序”为中文名称，注意：CFBundleDisplayName加不加双引号都行
 
