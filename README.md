@@ -18,7 +18,7 @@
 #define NSLocalizedStringWithDefaultValue(key, tbl, bundle, val, comment) \ [bundle localizedStringForKey:(key) value:(val) table:(tbl)]
 ```
 ```objc
-[NSBundle bundleForClass:[self class];加载app中的所有bunle资源
+//[NSBundle bundleForClass:[self class];
 ```
 
 ## 四 本地化应用程序名称，这个只有一种方案：
