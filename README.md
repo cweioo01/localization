@@ -55,4 +55,4 @@ char *name;
 };
 ```
 六.
-![](/assets/Snip20161022_1.png)
+![](https://github.com/cweioo01/localization/blob/master/Snip20161021_7.png)
