@@ -54,3 +54,5 @@ char *name;
 {2, "en.lproj"},
 };
 ```
+六.
+![](/assets/Snip20161022_1.png)
