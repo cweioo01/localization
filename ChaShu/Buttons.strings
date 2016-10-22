@@ -1,0 +1,13 @@
+/* 
+  Buttons.strings
+  ChaShu
+
+  Created by ChenWei on 16/10/22.
+  Copyright © 2016年 cw. All rights reserved.
+*/
+"Simple" = "b簡";
+"Unsimple" = "b繁";
+"English" = "b繁英";
+"resetPassword" = "b重設密碼";
+"toggleCount" = "b切換帳號";
+"exitLogin" = "b登出";

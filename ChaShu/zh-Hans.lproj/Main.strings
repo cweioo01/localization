@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "4VD-cK-e3d"; */
+"4VD-cK-e3d.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "語言設定"; ObjectID = "5Y4-MW-BnF"; */
+"5Y4-MW-BnF.text" = "語言設定";
+
+/* Class = "UIButton"; normalTitle = "繁"; ObjectID = "9k4-ry-m5A"; */
+"9k4-ry-m5A.normalTitle" = "繁";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Bmh-l6-uZh"; */
+"Bmh-l6-uZh.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "简"; ObjectID = "Eqc-iA-cR3"; */
+"Eqc-iA-cR3.normalTitle" = "简";
+
+/* Class = "UINavigationItem"; title = "設定"; ObjectID = "JpD-Nr-enW"; */
+"JpD-Nr-enW.title" = "設定";
+
+/* Class = "UIButton"; normalTitle = "切換帳戶"; ObjectID = "OA8-qK-Sft"; */
+"OA8-qK-Sft.normalTitle" = "切換帳戶";
+
+/* Class = "UIButton"; normalTitle = "重設密碼"; ObjectID = "bN7-qj-hTI"; */
+"bN7-qj-hTI.normalTitle" = "重設密碼";
+
+/* Class = "UIButton"; normalTitle = "登出"; ObjectID = "h6Y-yO-ld7"; */
+"h6Y-yO-ld7.normalTitle" = "登出";
+
+/* Class = "UILabel"; text = "帳戶設定"; ObjectID = "u2L-jB-OWu"; */
+"u2L-jB-OWu.text" = "帳戶設定";

@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  ChaShu
+
+  Created by ChenWei on 16/10/21.
+  Copyright © 2016年 cw. All rights reserved.
+*/
+"Simple" = "簡";
+"Unsimple" = "繁";
+"English" = "繁英";
+"resetPassword" = "重設密碼";
+"toggleCount" = "切換帳號";
+"exitLogin" = "登出";
