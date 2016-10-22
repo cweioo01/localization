@@ -54,5 +54,14 @@ char *name;
 {2, "en.lproj"},
 };
 ```
-六.
+六.图片
+
+![](https://github.com/cweioo01/localization/blob/master/Snip20161014_3.png)
+![](https://github.com/cweioo01/localization/blob/master/Snip20161014_1.png)
+![](https://github.com/cweioo01/localization/blob/master/Snip20161014_2.png)
+![](https://github.com/cweioo01/localization/blob/master/Snip20161014_4.png)
+![](https://github.com/cweioo01/localization/blob/master/Snip20161014_5.png)
+![](https://github.com/cweioo01/localization/blob/master/Snip20161014_6.png)
 ![](https://github.com/cweioo01/localization/blob/master/Snip20161021_7.png)
+
+
